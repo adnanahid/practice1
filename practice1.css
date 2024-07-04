@@ -5,3 +5,16 @@ h1{
     color: rgb(76, 82, 100);
     text-align: center;
 }
+h3{
+    background-color: darkslateblue;
+}
+p{
+    text-align: center;
+    background-color: darkcyan;
+    font-size: larger;
+}
+.benifits{
+    text-align: justify;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+}
